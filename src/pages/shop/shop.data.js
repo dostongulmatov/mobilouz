@@ -7,19 +7,19 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
         price: 25
       },
       {
         id: 2,
         name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
         price: 18
       },
       {
         id: 3,
         name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
         price: 35
       },
       {
@@ -86,7 +86,7 @@ const SHOP_DATA = [
       {
         id: 4,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
         price: 160
       },
       {
@@ -135,7 +135,7 @@ const SHOP_DATA = [
       {
         id: 3,
         name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
         price: 90
       },
       {
@@ -160,25 +160,25 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
         price: 25
       },
       {
         id: 2,
         name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
         price: 20
       },
       {
         id: 3,
         name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
         price: 80
       },
       {
         id: 4,
         name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
         price: 80
       },
       {
